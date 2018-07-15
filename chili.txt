@@ -1,2 +1,3 @@
 Chilly is a chilly girl.
 Now this line should appear after merge command!
+This is branch text row
